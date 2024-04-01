@@ -16,7 +16,7 @@ A react app which is used to track all tranctions, you can over look at the expe
   </tr>
  </table>
 
-## Work Complted
+## WIP
 * [x] Authentication
 * [ ] DashBoard
 * [ ] Forms - Input Data
